@@ -1,0 +1,5 @@
+# requirements
+numpy==1.23.3
+pandas==1.5.1
+open3d==0.12.0
+opencv-python==4.5.1.48

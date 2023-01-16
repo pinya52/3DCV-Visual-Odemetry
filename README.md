@@ -16,5 +16,7 @@ python3 vo.py frames
 python3 vo.py frames --method sift
 ```
 
+<!-- 
 ### Demo
 https://youtu.be/zbmFC2vT0jM
+-->
